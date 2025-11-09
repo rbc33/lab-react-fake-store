@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import { Link } from 'react-router-dom'
 
 function ProductListPage() {
 	// The state variable `products` is currently an empty array [],
